@@ -1,0 +1,36 @@
+23-Sep-2024 02:52:30.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+23-Sep-2024 02:52:30.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+23-Sep-2024 02:52:30.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+23-Sep-2024 02:52:30.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Sep-2024 02:52:30.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-Sep-2024 02:52:30.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Sep-2024 02:52:30.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\iliam\.jdks\openjdk-21.0.2
+23-Sep-2024 02:52:30.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-58
+23-Sep-2024 02:52:30.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Sep-2024 02:52:30.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp
+23-Sep-2024 02:52:30.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\iliam\OneDrive\Desktop\apache-tomcat-10.1.25
+23-Sep-2024 02:52:30.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Sep-2024 02:52:30.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Sep-2024 02:52:30.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Sep-2024 02:52:30.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Sep-2024 02:52:30.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Sep-2024 02:52:30.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\iliam\OneDrive\Desktop\apache-tomcat-10.1.25
+23-Sep-2024 02:52:30.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp
+23-Sep-2024 02:52:30.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\temp
+23-Sep-2024 02:52:30.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\conf\logging.properties
+23-Sep-2024 02:52:30.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Sep-2024 02:52:30.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.2\lib\idea_rt.jar=64131:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.2\bin
+23-Sep-2024 02:52:30.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+23-Sep-2024 02:52:30.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+23-Sep-2024 02:52:30.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+23-Sep-2024 02:52:30.839 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+23-Sep-2024 02:52:30.868 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+23-Sep-2024 02:52:31.175 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Sep-2024 02:52:31.193 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [663] milliseconds
+23-Sep-2024 02:52:31.242 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Sep-2024 02:52:31.242 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+23-Sep-2024 02:52:31.254 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\conf\Catalina\localhost\webProject.xml]
+23-Sep-2024 02:52:32.934 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-Sep-2024 02:52:32.979 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\conf\Catalina\localhost\webProject.xml] has finished in [1,725] ms
+23-Sep-2024 02:52:32.982 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Sep-2024 02:52:33.002 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1806] milliseconds

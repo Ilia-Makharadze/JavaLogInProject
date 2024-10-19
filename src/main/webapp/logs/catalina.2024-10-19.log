@@ -1,0 +1,40 @@
+19-Oct-2024 21:33:16.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+19-Oct-2024 21:33:16.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+19-Oct-2024 21:33:16.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+19-Oct-2024 21:33:16.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+19-Oct-2024 21:33:16.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-Oct-2024 21:33:16.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Oct-2024 21:33:16.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\iliam\.jdks\openjdk-21.0.2
+19-Oct-2024 21:33:16.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-58
+19-Oct-2024 21:33:16.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Oct-2024 21:33:16.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp
+19-Oct-2024 21:33:16.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\iliam\OneDrive\Desktop\apache-tomcat-10.1.25
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\iliam\OneDrive\Desktop\apache-tomcat-10.1.25
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\temp
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\conf\logging.properties
+19-Oct-2024 21:33:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Oct-2024 21:33:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.2\lib\idea_rt.jar=53443:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.2\bin
+19-Oct-2024 21:33:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+19-Oct-2024 21:33:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+19-Oct-2024 21:33:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+19-Oct-2024 21:33:16.900 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+19-Oct-2024 21:33:16.929 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+19-Oct-2024 21:33:17.225 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Oct-2024 21:33:17.242 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [577] milliseconds
+19-Oct-2024 21:33:17.283 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Oct-2024 21:33:17.283 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+19-Oct-2024 21:33:17.292 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\conf\Catalina\localhost\webProject.xml]
+19-Oct-2024 21:33:18.295 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Oct-2024 21:33:18.337 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\iliam\OneDrive\Desktop\webProject\src\main\webapp\conf\Catalina\localhost\webProject.xml] has finished in [1,045] ms
+19-Oct-2024 21:33:18.340 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Oct-2024 21:33:18.357 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1115] milliseconds
+19-Oct-2024 21:33:32.652 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Oct-2024 21:33:32.654 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Oct-2024 21:33:32.663 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Oct-2024 21:33:32.666 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:20:33:02 +0400] "GET /webProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:20:33:03 +0400] "GET /webProject/ HTTP/1.1" 200 6578
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:20:33:07 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:20:33:14 +0400] "POST /webProject/registration HTTP/1.1" 200 53
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:20:33:17 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:22:17:34 +0400] "GET /webProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:22:17:35 +0400] "GET /webProject/ HTTP/1.1" 200 6578
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:22:17:37 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:22:17:48 +0400] "POST /webProject/registration HTTP/1.1" 200 53
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:23:35:18 +0400] "GET /webProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:23:35:19 +0400] "GET /webProject/ HTTP/1.1" 200 6578
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:23:35:24 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:23:35:34 +0400] "POST /webProject/registration HTTP/1.1" 200 53
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:23:35:36 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:23:35:46 +0400] "POST /webProject/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jun/2024:23:35:46 +0400] "GET /webProject/central HTTP/1.1" 200 5753

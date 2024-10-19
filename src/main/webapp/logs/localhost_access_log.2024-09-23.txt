@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:52:36 +0400] "GET /webProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:52:37 +0400] "GET /webProject/ HTTP/1.1" 200 6578
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:52:37 +0400] "GET /favicon.ico HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:52:42 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:52:47 +0400] "POST /webProject/registration HTTP/1.1" 200 76
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:52:49 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:52:52 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
+0:0:0:0:0:0:0:1 - - [23/Sep/2024:02:53:09 +0400] "GET /webProject/registration HTTP/1.1" 200 6824
